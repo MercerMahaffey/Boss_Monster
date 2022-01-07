@@ -7,7 +7,7 @@
 ## Overview
 Boss Monster is based off of the card game Boss Monster by Brotherwise Games. We had to modifiy the rules in order to create a single player version of the game.
 
-Give it a try: https://bossmonster.netlify.app/dungeon-masters
+Give it a try: https://bossmonster.netlify.app/
 
 ### Gameplay
 This version of Boss Monster plays similar to the original, but with new features.
